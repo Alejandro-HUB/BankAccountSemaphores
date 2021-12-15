@@ -1,0 +1,188 @@
+"C:\Users\Alejandro Lopez\.jdks\openjdk-17\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\lib\idea_rt.jar=57733:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Alejandro Lopez\IdeaProjects\OSProject2\out\production\OSProject2" RunAccount
+
+Producer:                     Consumer:                     Balance: 
+---------                     ---------                     -------- 
+------------------------------------------------------------------------------------------------
+Month: 1 - Semester Started
+------------------------------------------------------------------------------------------------
+Student Loan 1 deposits $1500                               Balance: $1500                
+                              Tuition 1 withdraws $1500     Balance: $0                   
+Job 1 deposits $200                                         Balance: $200                 
+                              Housing 1 withdraws $200      Balance: $0                   
+Job 2 deposits $200                                         Balance: $200                 
+                              Bill 1 withdraws $200         Balance: $0                   
+                              Consumer 1 withdraws $48      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $48         Balance: $0                   
+                                                            Credit left: $1452, Credit owed: $48
+Producer 1 deposits $155                                    Balance: $155                 
+                              Bill 2 withdraws $200         Withdraw Blocked: Insufficient Funds
+                              Consumer 2 Credit $200        Balance: $155                 
+                                                            Credit left: $1252, Credit owed: $248
+Producer 2 deposits $133                                    Balance: $288                 
+                              Consumer 2 withdraws $140     Balance: $148                 
+------------------------------------------------------------------------------------------------
+Month: 2
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $49                                        CreditOwed: $199              
+                              Housing 1 withdraws $200      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Balance: $99                  
+                                                            Credit left: $1052, Credit owed: $399
+Job 1 deposits $200                                         Balance: $299                 
+                              Bill 1 withdraws $200         Balance: $99                  
+Job 2 deposits $200                                         Balance: $299                 
+                              Consumer 1 withdraws $48      Balance: $251                 
+Producer 1 deposits $29                                     Balance: $280                 
+                              Bill 2 withdraws $200         Balance: $80                  
+Producer 2 deposits $142                                    Balance: $222                 
+                              Consumer 2 withdraws $79      Balance: $143                 
+------------------------------------------------------------------------------------------------
+Month: 3
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $79                                        CreditOwed: $320              
+                              Housing 1 withdraws $200      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Balance: $64                  
+                                                            Credit left: $852, Credit owed: $520
+Job 1 deposits $200                                         Balance: $264                 
+                              Bill 1 withdraws $200         Balance: $64                  
+Producer 1 deposits $200                                    Balance: $264                 
+                              Consumer 1 withdraws $9       Balance: $255                 
+Job 2 deposits $200                                         Balance: $455                 
+                              Bill 2 withdraws $200         Balance: $255                 
+Producer 2 deposits $38                                     Balance: $293                 
+                              Consumer 2 withdraws $59      Balance: $234                 
+------------------------------------------------------------------------------------------------
+Month: 4 - Semester Started
+------------------------------------------------------------------------------------------------
+Student Loan 1 deposits $1500                               Balance: $1734                
+                              Tuition 1 withdraws $1500     Balance: $234                 
+Pay Credit 20% 1 $104                                       CreditOwed: $416              
+                              Housing 1 withdraws $200      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Balance: $130                 
+                                                            Credit left: $652, Credit owed: $616
+Job 1 deposits $200                                         Balance: $330                 
+                              Bill 1 withdraws $200         Balance: $130                 
+Job 2 deposits $200                                         Balance: $330                 
+                              Consumer 1 withdraws $13      Balance: $317                 
+Producer 1 deposits $77                                     Balance: $394                 
+                              Bill 2 withdraws $200         Balance: $194                 
+Producer 2 deposits $114                                    Balance: $308                 
+                              Consumer 2 withdraws $12      Balance: $296                 
+------------------------------------------------------------------------------------------------
+Month: 5
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $123                                       CreditOwed: $493              
+                              Housing 1 withdraws $200      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Balance: $173                 
+                                                            Credit left: $452, Credit owed: $693
+Job 1 deposits $200                                         Balance: $373                 
+                              Bill 1 withdraws $200         Balance: $173                 
+Producer 1 deposits $158                                    Balance: $331                 
+                              Consumer 1 withdraws $38      Balance: $293                 
+Job 2 deposits $200                                         Balance: $493                 
+                              Bill 2 withdraws $200         Balance: $293                 
+Producer 2 deposits $95                                     Balance: $388                 
+                              Consumer 2 withdraws $33      Balance: $355                 
+------------------------------------------------------------------------------------------------
+Month: 6
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $138                                       CreditOwed: $555              
+                              Housing 1 withdraws $200      Balance: $17                  
+Job 2 deposits $200                                         Balance: $217                 
+                              Bill 1 withdraws $200         Balance: $17                  
+Job 1 deposits $200                                         Balance: $217                 
+                              Consumer 1 withdraws $107     Balance: $110                 
+Producer 2 deposits $81                                     Balance: $191                 
+                              Bill 2 withdraws $200         Withdraw Blocked: Insufficient Funds
+                              Consumer 2 Credit $200        Balance: $191                 
+                                                            Credit left: $252, Credit owed: $755
+Producer 1 deposits $56                                     Balance: $247                 
+                              Consumer 2 withdraws $51      Balance: $196                 
+------------------------------------------------------------------------------------------------
+Month: 7
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $151                                       CreditOwed: $604              
+                              Housing 1 withdraws $200      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Balance: $45                  
+                                                            Credit left: $52, Credit owed: $804
+Job 1 deposits $200                                         Balance: $245                 
+                              Bill 1 withdraws $200         Balance: $45                  
+Job 2 deposits $200                                         Balance: $245                 
+                              Consumer 1 withdraws $38      Balance: $207                 
+Producer 1 deposits $136                                    Balance: $343                 
+                              Bill 2 withdraws $200         Balance: $143                 
+Producer 2 deposits $151                                    Balance: $294                 
+                              Consumer 2 withdraws $99      Balance: $195                 
+------------------------------------------------------------------------------------------------
+Month: 8 - Semester Started
+------------------------------------------------------------------------------------------------
+Student Loan 1 deposits $1500                               Balance: $1695                
+                              Tuition 1 withdraws $1500     Balance: $195                 
+Job 1 deposits $200                                         Balance: $395                 
+                              Housing 1 withdraws $200      Balance: $195                 
+Pay Credit 20% 1 $160                                       CreditOwed: $644              
+                              Bill 1 withdraws $200         Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Withdraw Blocked: Insufficient Credit
+Producer 1 deposits $40                                     Balance: $75                  
+                              Bill 2 withdraws $200         Withdraw Blocked: Insufficient Funds
+                              Consumer 2 Credit $200        Withdraw Blocked: Insufficient Credit
+Job 2 deposits $200                                         Balance: $275                 
+                              Consumer 1 withdraws $119     Balance: $156                 
+Producer 2 deposits $186                                    Balance: $342                 
+                              Consumer 2 withdraws $43      Balance: $299                 
+------------------------------------------------------------------------------------------------
+Month: 9
+------------------------------------------------------------------------------------------------
+Job 2 deposits $200                                         Balance: $499                 
+                              Housing 1 withdraws $200      Balance: $299                 
+Pay Credit 20% 1 $128                                       CreditOwed: $516              
+                              Bill 1 withdraws $200         Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Withdraw Blocked: Insufficient Credit
+Job 1 deposits $200                                         Balance: $371                 
+                              Bill 2 withdraws $200         Balance: $171                 
+Producer 2 deposits $5                                      Balance: $176                 
+                              Consumer 1 withdraws $37      Balance: $139                 
+Producer 1 deposits $26                                     Balance: $165                 
+                              Consumer 2 withdraws $16      Balance: $149                 
+------------------------------------------------------------------------------------------------
+Month: 10
+------------------------------------------------------------------------------------------------
+Job 2 deposits $200                                         Balance: $349                 
+                              Housing 1 withdraws $200      Balance: $149                 
+Job 1 deposits $200                                         Balance: $349                 
+                              Bill 1 withdraws $200         Balance: $149                 
+Pay Credit 20% 1 $103                                       CreditOwed: $413              
+                              Consumer 1 withdraws $3       Balance: $43                  
+Producer 2 deposits $30                                     Balance: $73                  
+                              Bill 2 withdraws $200         Withdraw Blocked: Insufficient Funds
+                              Consumer 2 Credit $200        Withdraw Blocked: Insufficient Credit
+Producer 1 deposits $23                                     Balance: $96                  
+                              Consumer 2 withdraws $18      Balance: $78                  
+------------------------------------------------------------------------------------------------
+Month: 11
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $82                                        Payment Blocked: Insufficient Funds
+                              Housing 1 withdraws $200      Withdraw Blocked: Insufficient Funds
+                              Consumer 1 Credit $200        Withdraw Blocked: Insufficient Credit
+Job 1 deposits $200                                         Balance: $278                 
+                              Bill 1 withdraws $200         Balance: $78                  
+Job 2 deposits $200                                         Balance: $278                 
+                              Consumer 1 withdraws $5       Balance: $273                 
+Producer 1 deposits $189                                    Balance: $462                 
+                              Bill 2 withdraws $200         Balance: $262                 
+Producer 2 deposits $184                                    Balance: $446                 
+                              Consumer 2 withdraws $17      Balance: $429                 
+------------------------------------------------------------------------------------------------
+Month: 12
+------------------------------------------------------------------------------------------------
+Pay Credit 20% 1 $82                                        CreditOwed: $331              
+                              Housing 1 withdraws $200      Balance: $147                 
+Job 2 deposits $200                                         Balance: $347                 
+                              Bill 1 withdraws $200         Balance: $147                 
+Job 1 deposits $200                                         Balance: $347                 
+                              Bill 2 withdraws $200         Balance: $147                 
+Producer 2 deposits $108                                    Balance: $255                 
+                              Consumer 1 withdraws $18      Balance: $237                 
+Producer 1 deposits $165                                    Balance: $402                 
+                              Consumer 2 withdraws $37      Balance: $365                 
+
+Process finished with exit code 0
